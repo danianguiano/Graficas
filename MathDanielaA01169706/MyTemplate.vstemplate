@@ -1,0 +1,31 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>MathDanielaA01169706</Name>
+    <Description>&lt;No hay ninguna descripción disponible&gt;</Description>
+    <ProjectType>VC</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>MathDanielaA01169706</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Math.vcxproj" File="Math.vcxproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="mat3.cpp">SRC\mat3.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="complex.cpp">SRC\complex.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vec2.cpp">SRC\vec2.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vec3.cpp">SRC\vec3.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vec4.cpp">SRC\vec4.cpp</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="complex.h">INCLUDE\complex.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="mat3.h">INCLUDE\mat3.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vec2.h">INCLUDE\vec2.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vec3.h">INCLUDE\vec3.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vec4.h">INCLUDE\vec4.h</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="$projectname$.vcxproj.filters">Math.vcxproj.filters</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>

@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\daniela\documents\proyecto5\proyecto5\proyecto5\include\vec3.h(47): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\daniela\documents\proyecto5\proyecto5\proyecto5\include\vec3.h(125): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\daniela\documents\proyecto5\proyecto5\proyecto5\src\main.cpp(11): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Proyecto5.vcxproj -> C:\Users\Daniela\Documents\Proyecto5\Proyecto5\Debug\Proyecto5.exe

@@ -1,0 +1,85 @@
+﻿  Particula.cpp
+c:\users\daniela\documents\proyecto final\computer graphics\particula.h(9): error C2059: error de sintaxis: '<'
+c:\users\daniela\documents\proyecto final\computer graphics\particula.h(13): error C2259: 'quad': no se puede crear una instancia de una clase abstract
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(13): note: debido a los siguientes miembros:
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(13): note: 'void quad::init(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\quad.h(20): note: vea la declaración de 'quad::init'
+c:\users\daniela\documents\proyecto final\computer graphics\particula.cpp(15): error C2511: 'particula::particula(cgmath::vec3,cgmath::vec3,float,cgmath::vec3)': la función miembro sobrecargada no se ha encontrado en 'particula'
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(6): note: vea la declaración de 'particula'
+c:\users\daniela\documents\proyecto final\computer graphics\particula.cpp(16): error C2259: 'quad': no se puede crear una instancia de una clase abstract
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.cpp(16): note: debido a los siguientes miembros:
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.cpp(16): note: 'void quad::init(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\quad.h(20): note: vea la declaración de 'quad::init'
+c:\users\daniela\documents\proyecto final\computer graphics\particula.cpp(48): error C2198: 'PFNGLGETUNIFORMLOCATIONPROC': no hay suficientes argumentos para la llamada
+c:\users\daniela\documents\proyecto final\computer graphics\particula.cpp(49): error C2198: 'PFNGLUNIFORMMATRIX4FVPROC': no hay suficientes argumentos para la llamada
+  quad.cpp
+  scene_particula.cpp
+  sistema.cpp
+c:\users\daniela\documents\proyecto final\computer graphics\particula.h(9): error C2059: error de sintaxis: '<'
+c:\users\daniela\documents\proyecto final\computer graphics\particula.h(13): error C2259: 'quad': no se puede crear una instancia de una clase abstract
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(13): note: debido a los siguientes miembros:
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(13): note: 'void quad::init(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\quad.h(20): note: vea la declaración de 'quad::init'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): error C2259: 'particula': no se puede crear una instancia de una clase abstract
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: debido a los siguientes miembros:
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::init(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(11): note: vea la declaración de 'scene::init'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::awake(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(12): note: vea la declaración de 'scene::awake'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::sleep(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(13): note: vea la declaración de 'scene::sleep'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::reset(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(14): note: vea la declaración de 'scene::reset'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::mainLoop(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(15): note: vea la declaración de 'scene::mainLoop'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::resize(int,int)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(16): note: vea la declaración de 'scene::resize'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::normalKeysDown(unsigned char)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(17): note: vea la declaración de 'scene::normalKeysDown'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::normalKeysUp(unsigned char)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(18): note: vea la declaración de 'scene::normalKeysUp'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::specialKeys(int)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(19): note: vea la declaración de 'scene::specialKeys'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.h(13): note: 'void scene::passiveMotion(int,int)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(20): note: vea la declaración de 'scene::passiveMotion'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(14): error C2039: 'particulaList': no es un miembro de 'particula'
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(6): note: vea la declaración de 'particula'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(17): error C2512: 'particula': no hay disponible un constructor predeterminado adecuado
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(6): note: vea la declaración de 'particula'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): error C2259: 'particula': no se puede crear una instancia de una clase abstract
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: debido a los siguientes miembros:
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::init(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(11): note: vea la declaración de 'scene::init'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::awake(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(12): note: vea la declaración de 'scene::awake'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::sleep(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(13): note: vea la declaración de 'scene::sleep'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::reset(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(14): note: vea la declaración de 'scene::reset'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::mainLoop(void)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(15): note: vea la declaración de 'scene::mainLoop'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::resize(int,int)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(16): note: vea la declaración de 'scene::resize'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::normalKeysDown(unsigned char)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(17): note: vea la declaración de 'scene::normalKeysDown'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::normalKeysUp(unsigned char)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(18): note: vea la declaración de 'scene::normalKeysUp'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::specialKeys(int)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(19): note: vea la declaración de 'scene::specialKeys'
+  c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): note: 'void scene::passiveMotion(int,int)': es abstracto
+  c:\users\daniela\documents\proyecto final\computer graphics\include\scene.h(20): note: vea la declaración de 'scene::passiveMotion'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(26): error C2512: 'particula': no hay disponible un constructor predeterminado adecuado
+  c:\users\daniela\documents\proyecto final\computer graphics\particula.h(6): note: vea la declaración de 'particula'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(31): error C2065: 'partList': identificador no declarado
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(32): error C2064: el término no se evalúa como una función con 1 argumentos
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(36): error C2143: error de sintaxis: falta ';' delante de '}'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(40): error C2065: 'partList': identificador no declarado
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(41): error C2064: el término no se evalúa como una función con 1 argumentos
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(41): error C2275: 'GLuint': uso no válido de este tipo como expresión
+  c:\users\daniela\documents\proyecto final\dependencies\include\gl\glew.h(280): note: vea la declaración de 'GLuint'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(41): error C2146: error de sintaxis: falta ')' delante del identificador 'shader_program'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(41): error C2146: error de sintaxis: falta ';' delante del identificador 'shader_program'
+c:\users\daniela\documents\proyecto final\computer graphics\sistema.cpp(41): error C2059: error de sintaxis: ')'
+  scene_cube.cpp
+  scene_manager.cpp
+  Generando código...

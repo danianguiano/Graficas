@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  mat3_test.cpp
+  mat4_test.cpp
+  vec2_test.cpp
+  vec3_test.cpp
+  vec4_test.cpp
+  Generando código...
+     Creando biblioteca C:\Users\Daniela\Documents\Proyecto Final\bin\Math Test\Math Test.lib y objeto C:\Users\Daniela\Documents\Proyecto Final\bin\Math Test\Math Test.exp
+  Math Test.vcxproj -> C:\Users\Daniela\Documents\Proyecto Final\bin\Math Test\Math Test.dll

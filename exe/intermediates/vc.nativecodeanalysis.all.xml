@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>particula.h</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'particula::maxtimeToLive' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>particula::{ctor}</FUNCTION>
+    <DECORATED>??0particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_nieve.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_nieve::aspect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_nieve::{ctor}</FUNCTION>
+    <DECORATED>??0scene_nieve@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_particula.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_particula::aspect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_particula::{ctor}</FUNCTION>
+    <DECORATED>??0scene_particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_fuego.h</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_fuego::aspect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_fuego::{ctor}</FUNCTION>
+    <DECORATED>??0scene_fuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>43</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

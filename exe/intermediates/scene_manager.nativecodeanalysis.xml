@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_nieve.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_nieve::aspect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_nieve::{ctor}</FUNCTION>
+    <DECORATED>??0scene_nieve@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_nieve.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_nieve::shader_program' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_nieve::{ctor}</FUNCTION>
+    <DECORATED>??0scene_nieve@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_nieve.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_nieve::vao' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_nieve::{ctor}</FUNCTION>
+    <DECORATED>??0scene_nieve@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_nieve.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_nieve::texID' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_nieve::{ctor}</FUNCTION>
+    <DECORATED>??0scene_nieve@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_nieve.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_nieve::angleCamera' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_nieve::{ctor}</FUNCTION>
+    <DECORATED>??0scene_nieve@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_nieve.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_nieve::maxtimeToLive' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_nieve::{ctor}</FUNCTION>
+    <DECORATED>??0scene_nieve@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_particula.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_particula::aspect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_particula::{ctor}</FUNCTION>
+    <DECORATED>??0scene_particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_particula.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_particula::texID' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_particula::{ctor}</FUNCTION>
+    <DECORATED>??0scene_particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_particula.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_particula::shader_program' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_particula::{ctor}</FUNCTION>
+    <DECORATED>??0scene_particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_particula.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_particula::maxtimeToLive' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_particula::{ctor}</FUNCTION>
+    <DECORATED>??0scene_particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_particula.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_particula::vao' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_particula::{ctor}</FUNCTION>
+    <DECORATED>??0scene_particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_particula.h</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_particula::angleCamera' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_particula::{ctor}</FUNCTION>
+    <DECORATED>??0scene_particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>42</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_fuego.h</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_fuego::aspect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_fuego::{ctor}</FUNCTION>
+    <DECORATED>??0scene_fuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>43</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_fuego.h</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_fuego::texID' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_fuego::{ctor}</FUNCTION>
+    <DECORATED>??0scene_fuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>43</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_fuego.h</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_fuego::shader_program' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_fuego::{ctor}</FUNCTION>
+    <DECORATED>??0scene_fuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>43</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_fuego.h</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_fuego::maxtimeToLive' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_fuego::{ctor}</FUNCTION>
+    <DECORATED>??0scene_fuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>43</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_fuego.h</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_fuego::vao' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_fuego::{ctor}</FUNCTION>
+    <DECORATED>??0scene_fuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>43</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>scene_fuego.h</FILENAME>
+      <LINE>43</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'scene_fuego::angleCamera' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>scene_fuego::{ctor}</FUNCTION>
+    <DECORATED>??0scene_fuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>43</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>particula.h</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'particula::maxtimeToLive' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>particula::{ctor}</FUNCTION>
+    <DECORATED>??0particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\daniela\documents\proyecto final\computer graphics\include\</FILEPATH>
+      <FILENAME>particula.h</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'particula::size' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>particula::{ctor}</FUNCTION>
+    <DECORATED>??0particula@@QAE@XZ</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
